@@ -1,1 +1,1 @@
-![Frame 8](https://github.com/user-attachments/assets/72eaf2b3-7983-42d1-9924-074d38907d84)
+<img width="1400" height="475" alt="Frame 8" src="https://github.com/user-attachments/assets/897f96a0-2876-495c-8488-150d81e8cd14" />
