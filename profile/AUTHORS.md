@@ -1,6 +1,6 @@
 # Authors
 ## Active
-* blowid - Founder, Lua, UI Designer;
+* lyncon - Founder, Lua, UI Designer;
 * bannzera - Moderator & Mapper;
 * Fernandim - Moderator, Modeler 3D;
 * Gonzales - Moderator, Modeler 3D;
